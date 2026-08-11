@@ -1,7 +1,5 @@
 # DBSCAN-Clustering-Algorithm-Unsupervised-Machine-Learning
 An unsupervised machine learning project demonstrating DBSCAN clustering using Python and Scikit-learn, with visualization of the generated clusters and noise points.
-# DBSCAN Clustering Algorithm – Unsupervised Machine Learning
-
 ## 📌 Project Overview
 
 This project demonstrates the **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)** algorithm, an unsupervised machine learning technique used to identify clusters based on the density of data points.
